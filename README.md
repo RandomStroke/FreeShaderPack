@@ -1,4 +1,4 @@
-# FreeShaderPack
+##################
 
 Набор шейдеров для Unity ( 2019.4.20f1 но должен работать и с более старыми версиями ).
 Пэкедж содержит 20+ примеров различных шейдеров которые могут быть использованы для различных эффектов.
@@ -8,7 +8,9 @@
 Каждый пример выделен в отдельный GameObject и содержит описание на Русском и Английском языках. 
 Код шейдеров так же содержит соотв-ие комментарии.
 Приятного использования ;)
+
 ##################
+
 Free shader pack for Unity ( 2019.4.20f1 but has to work with older versions ). Contains 20+ examples of shaders mainly used for vfx. Compatible with mobile devices. 
 
 All shaders are presented in the /Scenes/ShaderScene.unity.
