@@ -17,3 +17,5 @@ All shaders are presented in the /Scenes/ShaderScene.unity.
 Every shader is stored on a separate GameObject and has a description in both Rus and Eng languages.
 Shaders' code is commented as well.
 Have fun ;)
+
+![sp](https://user-images.githubusercontent.com/36265375/136529785-22dd5b98-05bf-4225-9dd7-c2804a577e3f.gif)
